@@ -115,4 +115,16 @@ footer{
     #nav-toggle-label{
         display: none;
     }
+
+    #logo{
+        font-size: 280%;
+        margin: 0 0.5rem;
+        line-height: 75px;
+    }
+
+    /*Main*/
+
+    main{
+        margin-top: 77px;
+    }
 }
