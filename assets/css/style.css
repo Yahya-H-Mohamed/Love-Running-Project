@@ -213,10 +213,11 @@ main{
     border: 1px solid #fafafa;
     border-radius: 2px;
     color: #fafafa;
-    padding: 5px 0 20px 0px;
+    margin: 5px 0 20px 0px;
     height: 25px;
     background: transparent;
-    width: 100%;
+    width: 100%;;
+    padding: 0 5px;
 }
 
 .radio-buttons {
